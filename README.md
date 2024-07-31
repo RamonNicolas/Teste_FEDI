@@ -49,7 +49,8 @@ Use the `fedimint-observer.db` file to answer the following questions:
     Test_DataEngineer_Fedi/
     ├── fedimint-observer.db
     ├── requirements.txt
-    ├── test_fedi_data_engineer.py
+    ├── fedi_data_engineer.py
+    ├── test_unit.py
     ```
 
 3. Set up the environment to access and query the SQLite database.
